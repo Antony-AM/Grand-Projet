@@ -1,3 +1,3 @@
 # Grand-Projet
 il faut installer le package Pillow
-le code à été fait sur une bas visual studio code donc les chemins d'accès sont fait pour cet éditeur
+le code à été fait sur une base visual studio code donc les chemins d'accès sont faits pour cet éditeur
